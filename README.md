@@ -1,4 +1,4 @@
-# Phase-II-prediction (Site of sulphonation (SOS) Predictor
+# Site of sulphonation (SOS) Predictor for Phase-II Drug Metabolism prediction 
 # 1. Introduction
 Welcome to SOS Predictor! This tool is designed to predict the likelihood of encountering an SOS situation based on various input parameters. This user manual will guide you through the process of installing and using SOS Predictor.
 
