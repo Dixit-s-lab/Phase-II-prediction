@@ -1,26 +1,14 @@
-# Phase-II-prediction
-SOS Predictor User Manual
-Table of Contents
-Introduction
-System Requirements
-Installation
-Usage
-Input
-Running SOS Predictor
-Output
-Troubleshooting
-Contributing
-License
-1. Introduction
+# Phase-II-prediction (Site of sulphonation (SOS) Predictor
+# 1. Introduction
 Welcome to SOS Predictor! This tool is designed to predict the likelihood of encountering an SOS situation based on various input parameters. This user manual will guide you through the process of installing and using SOS Predictor.
 
-2. System Requirements
+# 2. System Requirements
 Before you begin, ensure that your system meets the following requirements:
 
 Python 3.6 or later
 Git (for cloning the repository)
 Dependencies specified in the requirements.txt file
-3. Installation
+# 3. Installation
 Follow these steps to install SOS Predictor:
 
 Clone the repository to your local machine:
@@ -38,7 +26,7 @@ Install the required dependencies:
 bash
 Copy code
 pip install -r requirements.txt
-4. Usage
+# 4. Usage
 Input
 Prepare input data in the specified format. Refer to the documentation or example files for guidance on the required input parameters.
 
@@ -53,13 +41,13 @@ Replace input_file.txt with the path to your input file and output_file.txt with
 Output
 The tool will generate an output file containing the SOS prediction results based on the input parameters.
 
-5. Troubleshooting
+# 5. Troubleshooting
 If you encounter any issues or errors during installation or usage, refer to the troubleshooting section in the documentation or check for updates on the project's GitHub repository.
 
-6. Contributing
+# 6. Contributing
 We welcome contributions! If you find bugs or have suggestions for improvements, please open an issue on the GitHub repository. If you'd like to contribute code, fork the repository, make your changes, and submit a pull request.
 
-7. License
+# 7. License
 SOS Predictor is released under the MIT License. See the license file for more details.
 
 Happy predicting with SOS Predictor! If you have any further questions, feel free to reach out to the project maintainers.
