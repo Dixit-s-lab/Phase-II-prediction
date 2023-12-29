@@ -1,10 +1,10 @@
 # Site of Sulphonation (SOS) Predictor
 # 1. Introduction
-Welcome to SOS Predictor! This tool is designed to predict the likelihood of encountering an SOS situation based on various input parameters. This user manual will guide you through the process of installing and using SOS Predictor.
+Welcome to SOS Predictor! This tool is designed to predict the potential of the query molecule to be a substrate and identify sites of sulphonation (SOS) in potential substrates. This user manual will guide you through the process of installing and using SOS Predictor.
 
 # 2. System Requirements
 Before you begin, ensure that your system meets the following requirements:
-
+OS: Linux
 Python 3.6 or later
 Git (for cloning the repository)
 Dependencies specified in the requirements.txt file
