@@ -1,6 +1,11 @@
 # Site of Sulphonation (SOS) Predictor
 # 1. Introduction
-Welcome to SOS Predictor! This tool is designed to predict the potential of the query molecule to be a substrate and identify sites of sulphonation (SOS) in potential substrates. This user manual will guide you through the process of installing and using SOS Predictor.
+Welcome to SOS Predictor, a powerful tool designed to predict the potential of a query molecule to be a substrate and identify sites of sulphonation (SOS) in potential substrates. Sulphonation is a crucial biological process involved in various metabolic pathways, and understanding the potential substrates and their reactive sites is essential in drug discovery, toxicology, and chemical biology.SOS Predictor leverages state-of-the-art machine learning algorithms to accurately predict sulphonation sites in molecules whether you are a researcher exploring the metabolic fate of a new drug candidate.
+
+# Features
+* Substrate Prediction: Determine whether a given molecule is likely to be a substrate for sulphonation.
+* Site Identification: Identification of potential sites of sulphonation within the molecule.
+* User-Friendly Interface: Easy installation and intuitive usage, making it accessible to both beginners and experts.
 
 # 2. System Requirements
 Before you begin, ensure that your system meets the following requirements:
@@ -10,22 +15,15 @@ Git (for cloning the repository)
 Dependencies specified in the requirements.txt file
 # 3. Installation
 Follow these steps to install SOS Predictor:
-
 Clone the repository to your local machine:
-
 bash
 Copy code
-git clone https://github.com/your-username/SOS-Predictor.git
+git clone https://github.com/Dixit-s-lab/Phase-II-prediction/SOS_predictor.git
 Change into the project directory:
-
-bash
-Copy code
 cd SOS-Predictor
 Install the required dependencies:
-
-bash
-Copy code
 pip install -r requirements.txt
+pip install -r https://github.com/Dixit-s-lab/Phase-II-prediction/SOS_predictor/raw/main/requirements.txt
 # 4. Usage
 Input
 Prepare input data in the specified format. Refer to the documentation or example files for guidance on the required input parameters.
