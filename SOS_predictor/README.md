@@ -13,17 +13,17 @@ OS: Linux
 Python 3.6 or later
 Git (for cloning the repository)
 Dependencies specified in the requirements.txt file
+To ensure the seamless operation of the SOS Predictor, it relies on several dependencies specified in the requirements.txt file. Additionally, it is recommended to set up a Conda environment that accommodates various essential Python libraries. If you don't already have Conda installed, you can obtain it from the official website at https://www.anaconda.com/. Detailed instructions for the Conda installation are available on the website.
+
 # 3. Installation
 Follow these steps to install SOS Predictor:
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/Dixit-s-lab/Phase-II-prediction/SOS_predictor.git
-Change into the project directory:
-cd SOS-Predictor
-Install the required dependencies:
-pip install -r requirements.txt
-pip install -r https://github.com/Dixit-s-lab/Phase-II-prediction/SOS_predictor/raw/main/requirements.txt
+1. Download the SOS_Predictor directory and extract the contents by executing the command "unzip SOS_Predictor.zip."
+2. Navigate to the project directory using the command:
+   cd SOS-Predictor
+3. Install the necessary dependencies by running:
+pip install -r https://github.com/Dixit-s-lab/Phase-II-prediction/blob/main/SOS_predictor/requirements.txt
+Alternatively, manually install each specified dependency. If opting for manual installation, ensure to update the path in the bashrc file accordingly.
+
 # 4. Usage
 Input
 Prepare input data in the specified format. Refer to the documentation or example files for guidance on the required input parameters.
