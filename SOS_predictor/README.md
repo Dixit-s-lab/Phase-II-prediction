@@ -30,9 +30,8 @@ After installing all the software and dependencies along with update the path in
 1. Keep the single molecule in the sdf formate inside the SOS_predictor directory like dopamine.sdf.
 2. Open the SOS_single_ligand.py in gedit or vim text editor and change the SOS-Predictor directory path in line 22 and save this file.
 3. Execute the following command to run SOS Predictor:
-python SOS_single_ligand.py
-Output
-The tool will generate an Results directory inside the SOS-Predictor which containing the SOS prediction results in csv formate which have molecule name atom no class prediction and site prediction.
+4. python SOS_single_ligand.py
+5. The tool will generate an Results directory inside the SOS-Predictor which containing the SOS prediction results in csv formate which have molecule name atom no class prediction and site prediction.
 
 # 5. License
 SOS_predictor is available under the creative commons license and is free for academic research groups working in a degree-granting university/institute. Any work/report/thesis/research-article/review-article resulting from the use of SOS_predictor should properly cite the software and publication associated with the same.For commercial usage of SOS Predictor, please contact at vaibhavadixit@gmail.com or vaibhav@niperguwahati.in
