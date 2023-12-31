@@ -10,18 +10,17 @@ Welcome to SOS Predictor, a powerful tool designed to predict the potential of a
 
 # 2. System Requirements
 Before you begin, ensure that your system meets the following requirements:
-OS: Linux
-Python 3.6 or later
-Git (for cloning the repository)
-Dependencies specified in the requirements.txt file
+* OS: Linux
+* Python 3.6 or later
+* Dependencies specified in the requirements.txt file
 To ensure the seamless operation of the SOS Predictor, it relies on several dependencies specified in the requirements.txt file. Additionally, it is recommended to set up a Conda environment that accommodates various essential Python libraries. If you don't already have Conda installed, you can obtain it from the official website at https://www.anaconda.com/. Detailed instructions for the Conda installation are available on the website.
 
 # 3. Installation
 Follow these steps to install SOS Predictor:
-1. Download the Phase-II-prediction-main directory and extract the contents by executing the command "unzip Phase-II-prediction-main."
+1. Download the Phase-II-prediction-main directory or clone the directory using gh repo clone Dixit-s-lab/Phase-II-prediction and extract the contents by executing the command "unzip Phase-II-prediction-main."
 2. Navigate to the project directory using the command:
-   cd SOS-Predictor
-3. Install the necessary dependencies by running:
+3. cd SOS-Predictor
+4. Install the necessary dependencies by running:
 pip install -r https://github.com/Dixit-s-lab/Phase-II-prediction/blob/main/requirements.txt
 Alternatively, manually install each specified dependency. If opting for manual installation, ensure to update the path in the bashrc file accordingly.
 
