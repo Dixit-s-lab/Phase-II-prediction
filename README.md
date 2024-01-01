@@ -19,8 +19,7 @@ To ensure the seamless operation of the SOS Predictor, it requires the dependenc
 Follow these steps to install SOS Predictor:
 1. Download the Phase-II-prediction-main directory or clone the directory using "gh repo clone Dixit-s-lab/Phase-II-prediction" and extract the contents by executing the command "unzip Phase-II-prediction-main.zip"
 2. Navigate to the project directory using the command: "cd SOS-Predictor"
-3. Install the necessary dependencies by running:
-pip install -r requirements.txt
+3. Install the necessary dependencies by running "pip install -r requirements.txt" command. 
 Alternatively, manually install each specified dependency. If opting for manual installation, ensure to update the path in the .bashrc file accordingly.
 
 # 4. Usage
