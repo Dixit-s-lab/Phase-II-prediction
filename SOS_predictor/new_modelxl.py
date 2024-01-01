@@ -58,7 +58,7 @@ final_energy_df.to_csv("eneryggy.csv", index = False)
 
 # final_oh = pd.read_csv("Final_Output_OH_OXYGEN_only.txt", sep = "\t", header = 0)
 final_oh = pd.read_csv("Final_Output.txt", sep='\t', header = 0, index_col=False)
-print(final_oh)
+#print(final_oh)
 final_oh["ligandX"] = final_oh.apply(LigandX, axis = 1)
 min_distance = final_oh.groupby('ligandX')['Dist_from_Fe'].min()
 
@@ -85,5 +85,15 @@ final_merge_X["Substrate/Non-substrate"] = final_merge_X.apply(Dist_from_Fe, axi
 final_merge_X["Site_of_sulphonation"] = final_merge_X.apply(isSite_of_sulphonation, axis = 1)
 
 final_merge_X.to_csv("Accesibility_Model_NEW.csv", index = False)
-print(final_merge_X)
+#print(final_merge_X)
+# changing code here
+# Create a new DataFrame with selected columns
+selected_columns = ["Ligand", "AtomNo", "Substrate/Non-substrate", "Site_of_sulphonation"]
+final_selected_columns = final_merge_X[selected_columns]
+
+# Write the final processed data to "Accesibility_Model_NEW.csv" file with selected columns
+final_selected_columns.to_csv("Accesibility_Model_NEW.csv", index=False)
+
+# Print the final DataFrame with selected columns
+print(final_selected_columns)
 

@@ -5,10 +5,10 @@ import time
 import datetime
 from tqdm import tqdm
 import shutil
-import os, datetime;
-datestring = datetime.datetime.now().strftime("result-%d-%m-%Y-%H-%M-%S");
-print (datestring);
-os.mkdir(datestring);
+#import os, datetime;
+#datestring = datetime.datetime.now().strftime("result-%d-%m-%Y-%H-%M-%S");
+#print (datestring);
+#os.mkdir(datestring);
 
 print ("\t" "\t" "*********************************************************************************************************************************************")
 print ("\t" "\t" "*                                                                    Welcome                                                                 *")
@@ -19,11 +19,40 @@ print ("\t" "\t" "*                                 PhD Research Scholar,Departm
 print ("\t" "\t" "*                                   Guided by Dr Vaibhav A Dixit Assistant professor NIPER Guwahati                                          *")
 print ("\t" "\t" "*********************************************************************************************************************************************" "\n") 
 
-address = "/home/caddsys3/Documents/software/SOS_predictor/OpenEye_SOS_predictor"
+# Get the current working directory
+current_directory = os.getcwd()
+
+# Print the current working directory
+print("Current Working Directory:", current_directory)
+
+# List of directories to replace
+directories_to_replace = ['docking', 'Results', '__pycache__']
+
+# Function to replace directories
+def replace_directories(directory_name):
+    if os.path.exists(directory_name):
+        shutil.rmtree(directory_name)
+    #os.makedirs(directory_name)
+
+# Replace specified directories
+for directory_name in directories_to_replace:
+    replace_directories(directory_name)
+
+# Print a message indicating successful replacement
+print("Directories replaced successfully.")
+
+# Set the current working directory to a variable
+address = current_directory
+
+# Now, address contains the path of the current working directory
+print("Address variable:", address)
+
+
+#address = "/home/caddsys3/Documents/software/SOS_predictor/OpenEye_SOS_predictor"
 address1 = address
 print("Address 1 is = ", address1)
 
-#fos.mkdir(address + "/Result")
+#os.mkdir(address + "/Results")
 # address = "/home/avik/Documents/ResearchProject/SULT/Final-script-work/sult-scripts/Files"
 print("Changing current address to the desired address")
 print("The current address directory is")
@@ -368,7 +397,7 @@ original2 = r"/home/caddsys3/Documents/software/SOS_predictor/OpenEye_SOS_predic
 
 
 #print (os. getcwd())
-
+"""
 target = datestring
 shutil.move(original, target)
 shutil.move(original1, target)
@@ -380,5 +409,5 @@ target1 = r"/home/caddsys3/Documents/software/SOS_predictor/OE_sos-predictor-all
 
 
 shutil.move(target, target1)
-
+"""
 
