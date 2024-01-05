@@ -1,7 +1,7 @@
 # Site of Sulphonation (SOS) Predictor
 
 # 1. Introduction
-Sulphonation is an important Phase II metabolic reaction catalyzed by a set of sulphotransferase isoforms. Approximately 20 % of FDA-approved drugs undergo Phase II metabolism, and thus, predicting the potential SULT substrates and SOS is essential for small-molecule drug discovery, toxicology, and chemical biology. The SOS Predictor leverages accessibility and reactivity-based algorithms to predict substrate potential and sulphonation sites accurately. The SOS Predictor is a tool designed to classify a query molecule with OH group as a substrate or nonsubstrate along with sites of sulphonation (SOS) in a potential substrate. All the datasets used for model development, like substrate and nonsubstrate along with validation are available in an sdf file format.
+Sulphonation is an important Phase II metabolic reaction catalyzed by a set of sulphotransferase isoforms. Approximately 20 % of FDA-approved drugs undergo Phase II metabolism, and thus, predicting the potential SULT substrates and SOS is essential for small-molecule drug discovery, toxicology, and chemical biology. The SOS Predictor leverages accessibility and reactivity-based algorithms to predict substrate potential and sulphonation sites accurately. The SOS Predictor is a tool designed to classify a query molecule with an OH group as a substrate or nonsubstrate along with sites of sulphonation (SOS) in a potential substrate. All the datasets used for model development, like substrate, nonsubstrate, and validation, are available in an sdf file format.
 
 # Features
 * Substrate Prediction: Determine whether a given molecule will likely be a SULT substrate.
