@@ -1,0 +1,116 @@
+substrate ,SMILES,SOS (Atom No) In pdbqt,References
+Acetaminophen,CC(=O)NC1=CC=C(C=C1)O,12,"McGill, M. R., McGill, M. R. & Jaeschke, H. Metabolism and disposition of acetaminophen: recent advances in relation to hepatotoxicity and diagnosis. Pharm. Res. 30, 2174–2187 (2013)"
+Amino salicylic Acid,C1=CC(=C(C=C1N)O)C(=O)O,14,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Apomorphine,CN1CCC2=C3C1CC4=C(C3=CC=C2)C(=C(C=C4)O)O,21,"Thomas, N. L. & Coughtrie, M. W. H. Sulfation of apomorphine by human sulfotransferases: evidence of a major role for the polymorphic phenol sulfotransferase, SULT1A1. Xenobiotica 33, 1139–1148 (2003)"
+Atovaquone,C1CC(CCC1C2=CC=C(C=C2)Cl)C3=C(C4=CC=CC=C4C(=O)C3=O)O,27,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Brexanolone,CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@H](C4)O)C)C,23,"Scott, L. J. Brexanolone: First Global Approval. Drugs 79, 779–783 (2019)."
+Buprenorphine,CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O,23,"Kurogi, K. et al. Sulfation of Buprenorphine, Pentazocine, and Naloxone by Human Cytosolic Sulfotransferases. Drug Metabolism Letters 6, 109–115"
+Curcumin,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,"14, 26","Lu, X. et al. Sulfonation of curcuminoids: Characterization and contribution of individual SULT enzymes. Mol. Nutr. Food Res. 59, 634–645 (2015)"
+Chlorquinaldol,CC1=NC2=C(C=C1)C(=CC(=C2O)Cl)Cl,14,"Degen PH, Moppert J, Schmid K, Weirich EG. Percutaneous absorption of chlorquinaldol (Sterosan). Dermatologica. 1979;159(3):239-44. doi: 10.1159/000250600. PMID: 478062."
+Desvenlafaxine,CN(C)CC(C1=CC=C(C=C1)O)C2(CCCCC2)O,16,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Dienestrol,CC=C(C1=CC=C(C=C1)O)C(=CC)C2=CC=C(C=C2)O,"10, 21","Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Diethylstilbesterol,CCC(=C(CC)C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,"9, 17","Kakuta, Y. et al. Mouse steroid sulfotransferases: substrate specificity and preliminary X-ray  crystallographic analysis. Biochem. Pharmacol. 55, 313–317 (1998)"
+Diflunisal,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,19,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Dopamine,C1=CC(=C(C=C1CCN)O)O,"9, 7","Barnett, A. C. et al. Active site mutations and substrate inhibition in human sulfotransferase 1A1 and  1A3. J. Biol. Chem. 279, 18799–18805 (2004)."
+Edrophonium,CC[N+](C)(C)C1=CC(=CC=C1)O,12,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Epinephrine,CNCC(C1=CC(=C(C=C1)O)O)O,7,"Goldstein, D. S., Eisenhofer, G. & Kopin, I. J. Sources and significance of plasma levels of catechols and their metabolites in  humans. J. Pharmacol. Exp. Ther. 305, 800–811 (2003)"
+Estradiol,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,19,"Senggunprai, L., Yoshinari, K. & Yamazoe, Y. Inhibitory effects of kynurenic acid, a tryptophan metabolite, and its derivatives  on cytosolic sulfotransferases. Biochem. J. 422, 455–462 (2009)."
+Estrone,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O,20,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Ethinyl estradiol,CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O,"19, 23","Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Fenoldopam,C1CNCC(C2=CC(=C(C(=C21)Cl)O)O)C3=CC=C(C=C3)O,"22, 24","Ziemniak, J. A., Allison, N., Boppana, V. K., Dubb, J. & Stote, R. The effect of acetaminophen on the disposition of fenoldopam: Competition for sulfation. Clin. Pharmacol. Ther. 41, 275–281 (1987)."
+Fluorescein,C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O,"24, 26","Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Formoterol,CC(CC1=CC=C(C=C1)OC)NCC(C2=CC(=C(C=C2)O)NC=O)O,12,"Somers, G. I. et al. A comparison of the expression and metabolizing activities of phase I and II enzymes  in freshly isolated human lung parenchymal cells and cryopreserved human hepatocytes. Drug Metab. Dispos. 35, 1797–1805 (2007)"
+Fulvestrant,CC12CCC3C(C1CCC2O)C(CC4=C3C=CC(=C4)O)CCCCCCCCCS(=O)CCCC(C(F)(F)F)(F)F,42,"Edavana, V. K. et al. Sulfation of fulvestrant by human liver cytosols and recombinant SULT1A1 and SULT1E1. Pharmgenomics. Pers. Med. 4, 137–145 (2011)"
+Levallorphan,C=CCN1CCC23CCCCC2C1CC4=C3C=C(C=C4)O,18,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Levodopa,C1=CC(=C(C=C1CC(C(=O)O)N)O)O,9,"Suiko, M. et al. Substrate specificity of human monoamine (M)-form phenol sulfotransferase:  preparation and analysis of Dopa 3-O-sulfate and Dopa 4-O-sulfate. J. Biochem. 124, 707–711 (1998)"
+Levothyroxine,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,27,"Sakakibara, Y. et al. Highly conserved mouse and human brain sulfotransferases: molecular cloning,  expression, and functional characterization. Gene 285, 39–47 (2002)"
+Liothyronin,C1=CC(=C(C=C1OC2=C(C=C(C=C2I)CC(C(=O)O)N)I)I)O,26,"LoPresti JS, Nicoloff JT. 3,5,3'-Triiodothyronine (T3) sulfate: a major metabolite in T3 metabolism in man. J Clin Endocrinol Metab. 1994 Mar;78(3):688-92. doi: 10.1210/jcem.78.3.8126143. PMID: 8126143."
+Masoprocol,CC(CC1=CC(=C(C=C1)O)O)C(C)CC2=CC(=C(C=C2)O)O,"4, 12","Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Mesalazine,C1=CC(=C(C=C1N)C(=O)O)O,10,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Metaraminol,CC(C(C1=CC(=CC=C1)O)O)N,8,"Baranczyk-Kuzma, A. & Sawicki, J. Biotransformation in monkey brain: coupling of sulfation to glutathione conjugation. Life Sci. 61, 1829–1841 (1997)."
+Methyl salicylate,COC(=O)C1=CC=CC=C1O,11,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Methyldopa,CC(CC1=CC(=C(C=C1)O)O)(C(=O)O)N,"8, 10","Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Metyrosine,CC(CC1=CC=C(C=C1)O)(C(=O)O)N,17,"Teramoto, T. et al. Crystal structure of human tyrosylprotein sulfotransferase-2 reveals the mechanism of protein tyrosine sulfation reaction. Nat. Commun. 4, 1572 (2013)"
+Minoxidil,C1CCN(CC1)C2=NC(=N)N(C(=C2)N)O,3,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Monobenzone,C1=CC=C(C=C1)COC2=CC=C(C=C2)O,7,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Naloxone,C=CCN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O,20,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Naltrexone,C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O,25,"Chandrasekaran, A. et al. Metabolism of intravenous methylnaltrexone in mice, rats, dogs, and humans. Drug Metab. Dispos. 38, 606–616 (2010)."
+Norepinephrine,C1=CC(=C(C=C1C(CN)O)O)O,"9, 7","Honma, W. et al. Enzymatic characterization and interspecies difference of phenol sulfotransferases, ST1A forms. Drug Metab. Dispos. 29, 274–281 (2001)"
+Orciprenaline,CC(C)NCC(C1=CC(=CC(=C1)O)O)O,7,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Pentazocine,CC1C2CC3=C(C1(CCN2CC=C(C)C)C)C=C(C=C3)O,16,"Kurogi, K. et al. Sulfation of Buprenorphine, Pentazocine, and Naloxone by Human Cytosolic Sulfotransferases. Drug Metabolism Letters 6, 109–115"
+Phenylephrine,CNCC(C1=CC(=CC=C1)O)O,7,"Honma, W. et al. Enzymatic characterization and interspecies difference of phenol sulfotransferases, ST1A forms. Drug Metab. Dispos. 29, 274–281 (2001)"
+Pindolol,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O,14,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Pregnenolone,CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C,23,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Raloxifene,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O,18,"Falany, J. L., Pilloff, D. E., Leyh, T. S. & Falany, C. N. Sulfation of raloxifene and 4-hydroxytamoxifen by human cytosolic sulfotransferases. Drug Metab. Dispos. 34, 361–368 (2006)."
+Resveratrol,Oc1ccc(cc1)\C=C\c2cc(O)cc(O)c2,"17, 9","Poór, M.; Kaci, H.; Bodnárová, S.; Mohos, V.; Fliszár-Nyúl, E.; Kunsági-Máté, S.; Özvegy-Laczka, C.; Lemli, B. Interactions of Resveratrol and Its Metabolites (Resveratrol-3-Sulfate, Resveratrol-3-Glucuronide, and Dihydroresveratrol) with Serum Albumin, Cytochrome P450 Enzymes, and OATP Transporters. Biomed. Pharmacother. 2022, 151. https://doi.org/10.1016/j.biopha.2022.113136."
+Ritodrine,CC(C(C1=CC=C(C=C1)O)O)NCCC2=CC=C(C=C2)O,13,"Nishimuta, H. et al. Inhibitory effects of various beverages on ritodrine sulfation by recombinant human  sulfotransferase isoforms SULT1A1 and SULT1A3. Pharm. Res. 22, 1406–1410 (2005)"
+Salbutamol,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,7,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Salicylamide,C1=CC=C(C(=C1)C(=O)N)O,12,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Testosterone,CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C,21,"Cook, I., Wang, T., Falany, C. N. & Leyh, T. S. High accuracy in silico sulfotransferase models. J. Biol. Chem. 288, 34494–34501 (2013)."
+Tibolone,CC1CC2=C(CCC(=O)C2)C3C1C4CCC(C4(CC3)C)(C#C)O,23,"Falany, J. L., Macrina, N. & Falany, C. N. Sulfation of tibolone and tibolone metabolites by expressed human cytosolic sulfotransferases. J. Steroid Biochem. Mol. Biol. 88, 383–391 (2004)"
+Troglitazone,CC1=C(C2=C(CCC(O2)(C)COC3=CC=C(C=C3)CC4C(=O)NC(=O)S4)C(=C1O)C)C,16,"Graham, D. J., Green, L., Senior, J. R. & Nourjah, P. Troglitazone-induced liver failure: a case study. Am. J. Med. 114, 299–306 (2003)."
+Tyrosine,C1=CC(=CC=C1CC(C(=O)O)N)O,8,"Teramoto, T. et al. Crystal structure of human tyrosylprotein sulfotransferase-2 reveals the mechanism of protein tyrosine sulfation reaction. Nat. Commun. 4, 1572 (2013)"
+Nonsubstrate,,,
+Acebutolol,CCCC(=O)NC1=CC(=C(C=C1)OCC(CNC(C)C)O)C(=O)C,,"For non-substrates no reports in the US-FDA labels and reported literature were found, thus was assumed to be sufficient evidence to consider them non-substrates."
+Adenosine,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N,,
+Ambroxol,C1CC(CCC1NCC2=C(C(=CC(=C2)Br)Br)N)O,,
+Cannabidiol,CCCCCC1=CC(=C(C(=C1)O)C2C=C(CCC2C(=C)C)C)O,,
+Cefadroxil,CC1=C(N2C(C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)SC1)C(=O)O,,
+Cefpiramide,CC1=CC(=O)C(=CN1)C(=O)NC(C2=CC=C(C=C2)O)C(=O)NC3C4N(C3=O)C(=C(CS4)CSC5=NN=NN5C)C(=O)O,,
+Chloroxine,C1=CC2=C(C(=C(C=C2Cl)Cl)O)N=C1,,
+Cladribine,C1C(C(OC1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O,,
+Dantron,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O,,
+Darunavir,CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N,,
+Deferasirox,C1=CC=C(C(=C1)C2=NN(C(=N2)C3=CC=CC=C3O)C4=CC=C(C=C4)C(=O)O)O,,
+Dezocine,CC12CCCCCC(C1N)CC3=C2C=C(C=C3)O,,
+Dicoumarol,C1=CC=C2C(=C1)C(=C(C(=O)O2)CC3=C(C4=CC=CC=C4OC3=O)O)O,,
+Dicoumarol,C1=CC=C2C(=C1)C(=C(C(=O)O2)CC3=C(C4=CC=CC=C4OC3=O)O)O,,
+Diphenidol,C1CCN(CC1)CCCC(C2=CC=CC=C2)(C3=CC=CC=C3)O,,
+Dipivefrin,CC(C)(C)C(=O)OC1=C(C=C(C=C1)C(CNC)O)OC(=O)C(C)(C)C,,
+Docosanol,CCCCCCCCCCCCCCCCCCCCCCO,,
+Entecavir,C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N,,
+Esmolol,CC(C)NCC(COC1=CC=C(C=C1)CCC(=O)OC)O,,
+Ethambutol,CCC(CO)NCCNC(CC)CO,,
+Ezetimibe,C1=CC(=CC=C1C2C(C(=O)N2C3=CC=C(C=C3)F)CCC(C4=CC=C(C=C4)F)O)O,,
+Glucosamine,C(C1C(C(C(C(O1)O)N)O)O)O,,
+Hydroxyamphetamine,CC(CC1=CC=C(C=C1)O)N,,
+Hydroxyzine,C1CN(CCN1CCOCCO)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,,
+Idarubicin,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O,,
+Indacaterol,CCC1=C(C=C2CC(CC2=C1)NCC(C3=C4C=CC(=O)NC4=C(C=C3)O)O)CC,,
+Levomenthol,CC1CCC(C(C1)O)C(C)C,,
+Lovastatin,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C,,
+Methocarbamol,COC1=CC=CC=C1OCC(COC(=O)N)O,,
+Methoxamine,CC(C(C1=C(C=CC(=C1)OC)OC)O)N,,
+Miglitol,C1C(C(C(C(N1CCO)CO)O)O)O,,
+Montelukast,CC(C)(C1=CC=CC=C1CCC(C2=CC=CC(=C2)C=CC3=NC4=C(C=CC(=C4)Cl)C=C3)SCC5(CC5)CC(=O)O)O,,
+Mycophenolic-aci,CC1=C2COC(=O)C2=C(C(=C1OC)CC=C(C)CCC(=O)O)O,,
+Nabilone,CCCCCCC(C)(C)C1=CC(=C2C3CC(=O)CCC3C(OC2=C1)(C)C)O,,
+Nylidrin,CC(CCC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O,,
+Penbutolol,CC(C)(C)NCC(COC1=CC=CC=C1C2CCCC2)O,,
+Periciazine,C1CN(CCC1O)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C#N,,
+Perphenazine,C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCO,,
+Phenylpropanolamine,CC(C(C1=CC=CC=C1)O)N,,
+pindolol,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O,,
+Piroxicam,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3,,
+Prasterone,CC12CCC3C(C1CCC2=O)CC=C4C3(CCC(C4)O)C,,
+Propranolol,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,,
+Protocatechualdehyde,C1=CC(=C(C=C1C=O)O)O,,
+Protokylol,CC(CC1=CC2=C(C=C1)OCO2)NCC(C3=CC(=C(C=C3)O)O)O,,
+Rotigotine,CCCN(CCC1=CC=CS1)C2CCC3=C(C2)C=CC=C3O,,
+Salsalate,C1=CC=C(C(=C1)C(=O)OC2=CC=CC=C2C(=O)O)O,,
+Testosterone,CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C,,
+Topotecan,CCC1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O,,
+Vernakalant,COC1=C(C=C(C=C1)CCOC2CCCCC2N3CCC(C3)O)OC,,
+Validation_dataset,,,
+substrate,,,
+Etilefrine,CCNCC(O)C1=CC=CC(O)=C1,8,"Kalita, S. J.; Pawar, D.; Vernekar, P.; Pawar, M. A.; Veena, K. S.; Mishra, A.; Sethi, K.; Radhakrishnanand, P.; Murty, S.; Sahu, P.; Dubey, S.; Sahu, K.; Upadhyay, A. Synthesis and Characterization of Octopamine Sulfate , Norfenefrine Sulfate and Etilefrine Sulfate Reference Materials for Doping Control. 2023, No. June. https://doi.org/10.1002/jctb.7458."
+Norfenefrine,NCC(O)C1=CC(O)=CC=C1,7,"Kalita, S. J.; Pawar, D.; Vernekar, P.; Pawar, M. A.; Veena, K. S.; Mishra, A.; Sethi, K.; Radhakrishnanand, P.; Murty, S.; Sahu, P.; Dubey, S.; Sahu, K.; Upadhyay, A. Synthesis and Characterization of Octopamine Sulfate , Norfenefrine Sulfate and Etilefrine Sulfate Reference Materials for Doping Control. 2023, No. June. https://doi.org/10.1002/jctb.7458."
+Octopamine,NCC(O)C1=CC=C(O)C=C1,7,"Pichu, S., Yalcin, E.B., Ribeiro, J.M. et al. Molecular characterization of novel sulfotransferases from the tick, Ixodes scapularis. BMC Biochem 12, 32 (2011). https://doi.org/10.1186/1471-2091-12-32"
+Triclosan,OC1=CC(Cl)=CC=C1OC1=C(Cl)C=C(Cl)C=C1,8,"Wang LQ, Falany CN, James MO. Triclosan as a substrate and inhibitor of 3'-phosphoadenosine 5'-phosphosulfate-sulfotransferase and UDP-glucuronosyl transferase in human liver fractions. Drug Metab Dispos. 2004 Oct;32(10):1162-9. doi: 10.1124/dmd.104.000273. Epub 2004 Jul 21. PMID: 15269185."
+Warfarin,CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2,12,"Jones DR, Miller GP. Assays and applications in warfarin metabolism: what we know, how we know it and what we need to know. Expert Opin Drug Metab Toxicol. 2011 Jul;7(7):857-74. doi: 10.1517/17425255.2011.576247. Epub 2011 Apr 12. PMID: 21480820."
+Nonsubstrtae,,,
+Ethylmorphine,[H][C@@]12OC3=C(OCC)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O,,"For non-substrates no reports in the US-FDA labels and reported literature were found, thus was assumed to be sufficient evidence to consider them non-substrates."
+ciprofloxacin,OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O,,
+Amoxicillin,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=C(O)C=C1)C(O)=O,,
+Simvastatin,[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H]1C[C@@H](O)CC(=O)O1)OC(=O)C(C)(C)CC,,
+Lorazepa,OC1N=C(C2=CC=CC=C2Cl)C2=C(NC1=O)C=CC(Cl)=C2,,
